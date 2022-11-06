@@ -3166,6 +3166,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2022-11-06 23:34:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2022-09-28 20:12:47 +0200"
@@ -3967,6 +3973,12 @@
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2022-11-01 00:58:06 +0100"
+    },
+    "done": true
+  },
+  "instrumentalmobs:root": {
+    "criteria": {
+      "tuba": "2022-11-06 23:09:49 +0100"
     },
     "done": true
   },
@@ -6503,6 +6515,12 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2022-11-06 23:33:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2022-10-21 16:15:50 +0200"
@@ -7052,6 +7070,12 @@
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2022-10-14 15:50:54 +0200"
+    },
+    "done": true
+  },
+  "instrumentalmobs:tuba": {
+    "criteria": {
+      "info": "2022-11-06 23:09:50 +0100"
     },
     "done": true
   },
@@ -7871,6 +7895,12 @@
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2022-10-14 16:04:19 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:shapers_focus": {
+    "criteria": {
+      "has_shapers_focus": "2022-11-06 23:33:39 +0100"
     },
     "done": true
   },
