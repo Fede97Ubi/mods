@@ -1,0 +1,26 @@
+
+#General
+[general]
+	#Enables ingame rewards on first spawn for Patreons
+	patreon_rewards = true
+
+#Items
+[items]
+	#Should the Industrial Pulverizer be able to mine bedrock?
+	bedrock_mining_with_pulverizer = true
+
+#Nexus
+[nexus]
+	#Should the Nexus spawn a area effect cloud with damage boost when right clicked?
+	nexus_effect_when_right_clicked = true
+	#How many XP the Nexus drop
+	#Range: 0 ~ 1000
+	nexus_xp_amount = 500
+	#How many XP the Nexus drop if it switches to another destruction level
+	#Range: 0 ~ 1000
+	nexus_stage_xp_amount = 50
+	#A list with all the rewards that drop when a Nexus is destroyed [amount*modid:item]
+	nexus_rewards = ["1*minecraft:nether_star"]
+	#Should the players of a lost team put into spectator mode?
+	spectator_mode_after_lost_nexus = true
+
